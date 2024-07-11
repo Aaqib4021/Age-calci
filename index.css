@@ -1,14 +1,14 @@
 @font-face {
     font-family: "poppins-regular";
-    src: url(/MY_CALCI/fonts/Poppins-Regular.ttf);
+    src: url(Poppins-Regular.ttf);
 }
 @font-face {
     font-family: "poppins-bold";
-    src: url(/MY_CALCI/fonts/Poppins-Bold.ttf);
+    src: url(Poppins-Bold.ttf);
 }
 @font-face {
     font-family: "poppins-extraBoldItalic";
-    src: url(/MY_CALCI/fonts/Poppins-ExtraBoldItalic.ttf);
+    src: url(Poppins-ExtraBoldItalic.ttf);
 }
 *{
     margin: 0;
